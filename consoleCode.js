@@ -1,6 +1,6 @@
 function testSolver() {
   let kacKere = 75;
-  let kacSaiyedeBirTıkla = 5gi;
+  let kacSaiyedeBirTıkla = 5;
   let timer = 0;
   let realTime = 0;
   var loop = setInterval(clickNext, kacSaiyedeBirTıkla * 1000);
